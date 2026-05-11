@@ -12,16 +12,19 @@
 - 🧠 Founder & Lead Developer at **Avesta Tech**
 - 🎯 Focused on **Gameplay Systems & Interactive Worlds**
 - 💻 Skilled in **Python & C#**
-- 🐉 Kali
-- 🔥 Unity Specialist | Exploring Unreal Engine
-- 🏛 From Persia – Programming with legacy mindset
+- 🐉 Kali Linux Enthusiast
+- 🔥 Unity Specialist 
+- 🏛 From Persia 
 
 ---
 
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,unreal,cs,python,html,css,js,git&perline=4" />
+  <img src="https://skillicons.dev/icons?i=unity,kali,cs,python,arduino&perline=5" />
+  <br>
+  <img src="https://img.shields.io/badge/-Ethical%20Hacking-00F7FF?style=for-the-badge&logo=kalilinux&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Cybersecurity-00F7FF?style=for-the-badge&logo=security&logoColor=black" />
 </p>
 
 ---
@@ -42,4 +45,3 @@
 ## 『𝐻』
 
 ---
-
